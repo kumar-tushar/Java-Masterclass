@@ -1,7 +1,9 @@
-package com.company;
+package com.company.FirstSteps;
 
 public class ByteShortIntLong {
+
     public static void main(String[] args){
+
         int myMinIntValue=Integer.MIN_VALUE;
         int myMaxIntValue=Integer.MAX_VALUE;
         System.out.println("Minimum Value "+myMinIntValue);
@@ -21,11 +23,6 @@ public class ByteShortIntLong {
         long myMaxLongValue=Long.MAX_VALUE;
         System.out.println("Minimum Value "+myMinLongValue);
         System.out.println("Maximum Value "+myMaxLongValue);
-
-        long number=21474836478L;
-        System.out.println(number);
-
-
 
     }
 }

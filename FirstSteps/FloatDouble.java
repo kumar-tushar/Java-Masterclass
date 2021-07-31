@@ -1,8 +1,9 @@
-package com.company;
+package com.company.FirstSteps;
 
-public class FloatAndDouble {
+public class FloatDouble {
+
     public static void main(String[] args){
-        
+
         float myMinFloatValue=Float.MIN_VALUE;
         float myMaxFloatValue=Float.MAX_VALUE;
         System.out.println(myMinFloatValue);
