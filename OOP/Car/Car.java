@@ -10,7 +10,7 @@ public class Car {
 
 
     public Car() {
-        this(4,4,"Cayenne", "3996 CC", "white");  // Constructor calling Third constructor with all default parameter
+        this(4,4,"Cayenne", "3996 CC", "white");  // Constructor calling Third constructor with all default parameters
     }
 
     public Car(String model, String engine, String colour) {

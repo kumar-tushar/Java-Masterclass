@@ -6,6 +6,5 @@ public class Main {
         Car porsche=new Car();
         System.out.println(porsche.getModel());
         System.out.println(porsche.getColour());
-
     }
 }
