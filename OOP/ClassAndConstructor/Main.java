@@ -1,4 +1,4 @@
-package com.company.OOP.Car;
+package com.company.OOP.ClassAndConstructor;
 
 public class Main {
 
@@ -7,5 +7,7 @@ public class Main {
         Car porsche=new Car();
         System.out.println(porsche.getModel());
         System.out.println(porsche.getColour());
+        porsche.setModel("Commodore");
+        System.out.println(porsche.getModel());
     }
 }

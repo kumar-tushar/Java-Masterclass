@@ -1,4 +1,4 @@
-package com.company.OOP.Car;
+package com.company.OOP.ClassAndConstructor;
 
 public class Car {
 
