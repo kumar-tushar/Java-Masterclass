@@ -23,23 +23,4 @@ public class Animal {
         System.out.println("Animal.move() called. Animal is moving at "+speed);
     }
 
-    public String getName() {
-        return name;
-    }
-
-    public int getBrain() {
-        return brain;
-    }
-
-    public int getBody() {
-        return body;
-    }
-
-    public int getSize() {
-        return size;
-    }
-
-    public int getWeight() {
-        return weight;
-    }
 }
